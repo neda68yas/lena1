@@ -1,0 +1,6 @@
+{
+  "name": "GOOGOOLI LENA",
+  "description": "اپلیکیشن فارسی سلامتی، تناسب اندام، محاسبه BMI، کالری‌شماری و تحلیل عکس غذا",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
